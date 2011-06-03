@@ -1,0 +1,16 @@
+# Maven build artifacts
+target
+
+# IntelliJ IDEA files and dirs
+*.iws
+.idea
+*.iml
+*.ipr
+
+# Eclipse files and dirs
+.settings
+.project
+.classpath
+
+# Backup files
+*.bak
