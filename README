@@ -3,3 +3,7 @@ A Remote Pair Programming session with
 Thomas Sundberg
 Alexandru Bolboaca
 
+To clone it:
+
+git clone git@github.com:tsundberg/rpp.git
+
